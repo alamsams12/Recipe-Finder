@@ -16,7 +16,7 @@ It fetches real-time recipe data using TheMealDB API.
 - TheMealDB API
 
 ## Live Demo
-(Coming soon)
+https://alamsams12.github.io/Recipe-Finder/
 
 ## Author
 Sams Alam
